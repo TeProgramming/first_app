@@ -5,7 +5,7 @@ gem 'rails', '3.2.8'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-# Gems used only for development
+# Gems used only for development env
 group :development do
   gem 'sqlite3'
 end
